@@ -1,0 +1,12 @@
+add panel mounted LED on top plate near switch, for power indication. x
+
+add all the rest of your nuts and bolts. x
+
+design and add acrylic brace wall.   use 3.00 mm width for the hole in your side walls.
+
+add rectangular and 2 circle holes for the servo.  
+
+design servo arm.
+
+
+Your hinge:  The inner diameter of the hinge hole should be = the diagonal length of your hinge "bar"  x
